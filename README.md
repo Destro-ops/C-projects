@@ -1,1 +1,1 @@
-just some fun projects done using c 
+basic projects done using c 
